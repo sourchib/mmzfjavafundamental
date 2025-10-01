@@ -2,7 +2,6 @@ package com.juaracoding.aa;
 
 public class Main {
     public static void main(String[] args) {
-
         int x;
         int z;
         int y;

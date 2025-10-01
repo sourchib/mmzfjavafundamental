@@ -1,6 +1,6 @@
-package com.juaracoding.aa;
+package com.juaracoding.probasic;
 
-public class Main {
+public class TypeDataJava {
     public static void main(String[] args) {
 
         int x = 1;//deklarasi + inisialisasi

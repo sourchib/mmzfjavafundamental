@@ -12,6 +12,7 @@ Created on 01/10/2025 20:34
 @Last Modified 01/10/2025 20:34
 Version 1.0
 */
+
 public class JavaCasting {
 
     public static void main(String[] args) {
@@ -40,9 +41,9 @@ public class JavaCasting {
         int detik = sisaDetik % 60;
 
         System.out.println(jam + " jam " + menit + " menit " + detik + " detik");
-
-
 //        int a = (int) b;
 //        System.out.println(a);
     }
+
+
 }

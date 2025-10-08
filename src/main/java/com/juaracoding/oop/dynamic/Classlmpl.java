@@ -18,7 +18,16 @@ public class Classlmpl {
         ClassTwo classTwo = new ClassTwo();
         classTwo.fungsiEmpat();
 
-//        List l = new ArrayList();
+        List l = new ArrayList();
+        l.add(1);
+        l.add(2);
+        l.add(3);
+        l.add(4);
+
+        l.clear(); //ketika membuat list lagi jangan lupa untuk clearlist
+
+        l.add(2);
+
 
     }
 }
